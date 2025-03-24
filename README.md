@@ -1,6 +1,6 @@
-# Expo eCommerce App Starter Template 👋
+# This is My Ecommerce Mobile App that compensates the web version that is production ready 👋
 
-This is a starter template for the expo eCommerce app tutorial on my YouTube channel.
+If you would love to use this app, contact me for customization, adding more features and building it to suite your business or use case. 
 
 ## Get started
 
@@ -15,12 +15,8 @@ This is a starter template for the expo eCommerce app tutorial on my YouTube cha
    ```bash
     npx expo start
    ```
+This app is merely a demo to showcase UI designs and the capabilities of the app, It could easily be built to a full fledged e-commerce mobile app on demand, just say the words. 😊
 
-Extra dependencies added here
+Thanks for checking it out.
 
-- [Axios](https://www.npmjs.com/package/axios)
-- [Expo Linear Gradient](https://docs.expo.dev/versions/latest/sdk/linear-gradient/)
-- [React Native SVG](https://github.com/software-mansion/react-native-svg#installation)
-- [React Native SVG Transformer](https://github.com/kristerkari/react-native-svg-transformer#readme)
-
-Additionally, I've used [JSON Server](https://github.com/typicode/json-server#readme) to create REST API endpoints based on the json data provided in `data/db.json` file. I haven't installed it in this project, but I installed it globally on my machine using `npm install -g json-server` command. To start up the JSON Server type this command into your terminal: `json-server --watch data/db.json --port 8000`. If you don't use `--port` flag then it'll run on "https://localhost:3000" by default.
+Note: If you want to run this app, kindly setup your own backend to use as I cannot share my supabase secret key in the project, you can easily spin up a similar backend or request for my key if you know i trust you (lol), if you're an HR, I can share you a demo on demand. Thanks and Cheers.🥂
